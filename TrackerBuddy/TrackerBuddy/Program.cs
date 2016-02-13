@@ -31,7 +31,7 @@ namespace TrackerBuddy
         private const int OffsetSummonersY = OffsetHudY + 2 + 3; //5
 
         private const int OffsetXpX = 0; //44
-        private const int OffsetXpY = -6; //53
+        private const int OffsetXpY = 0; //53
 
         public static readonly TextureLoader TextureLoader = new TextureLoader();
 
