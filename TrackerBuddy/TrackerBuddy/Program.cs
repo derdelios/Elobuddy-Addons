@@ -21,13 +21,13 @@ namespace TrackerBuddy
 {
     internal static class Program
     {
-        private const int OffsetHudX = 9999; //31
-        private const int OffsetHudY = 9999; //11
+        private const int OffsetHudX = 999999999999; //31
+        private const int OffsetHudY = 999999999999; //11
 
-        private const int OffsetSpellsX = 22;
-        private const int OffsetSpellsY = 11 + 15 + 2;
+        private const int OffsetSpellsX = 0;
+        private const int OffsetSpellsY = 0;
 
-        private const int OffsetSummonersX = 4; //9
+        private const int OffsetSummonersX = 0; //9
         private const int OffsetSummonersY = 0; //5
         
        // private const int OffsetHudX = -21; //31
