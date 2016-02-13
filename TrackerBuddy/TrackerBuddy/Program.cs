@@ -24,11 +24,11 @@ namespace TrackerBuddy
         private const int OffsetHudX = 999999999999; //31
         private const int OffsetHudY = 999999999999; //11
 
-        private const int OffsetSpellsX = 1;
-        private const int OffsetSpellsY = 1;
+        private const int OffsetSpellsX = 31;
+        private const int OffsetSpellsY = 11;
 
-        private const int OffsetSummonersX = 1; //9
-        private const int OffsetSummonersY = 1; //5
+        private const int OffsetSummonersX = 9; //9
+        private const int OffsetSummonersY = 5; //5
         
        // private const int OffsetHudX = -21; //31
        // private const int OffsetHudY = 2; //11
